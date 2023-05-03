@@ -26,10 +26,8 @@ if menu == 1:
         print(f'Seu estoque atual é {estoqueCompleto}.')
 
     else:
-        print('Você precisa digitar uma opção váalida.')    
-elif menu == 2:
-    for True in suprementos:
-        
-
+        print('Você precisa digitar uma opção válida.')    
+elif menu == 2:        
+    print('2')
 else:
     print('3')
